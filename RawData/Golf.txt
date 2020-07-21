@@ -1,0 +1,8 @@
+CourseName	Holes	Par	Yardage	GreenFees
+Pukalani	18	72	6945	89.00
+Kahili	18	72	6570	119.00
+Maui Nui Blue	18	71	6404	69.00
+Waiehu Municipal	18	72	6330	63.00
+Wailea Gold	18	72		250.00
+Dunes at Maui Lani	18	72	6841	105.00
+Kaanapali	18	71	6555	144.00

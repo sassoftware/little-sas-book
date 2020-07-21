@@ -1,0 +1,7 @@
+Name	Street	City	State
+Seiki	100 A St.	Anchorage	Alaska
+Wong	2 A St.	honolulu	Hawaii
+Shaw	10 A St. Apt. 10	juneau	Alaska
+Smith	10 A St. Apt. 2 	Honolulu	Hawaii
+Lee	100 A St.	Honolulu 	hawaii
+Jones	10 A St. Apt. 22	Juneau	alaska

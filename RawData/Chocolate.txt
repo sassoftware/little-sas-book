@@ -1,0 +1,9 @@
+Code	Name	Description
+A206	Mokka	Coffee buttercream in dark chocolate
+A536	Walnoot	Walnut halves in dark chocolate
+B713	Frambozen	Raspberry marzipan in milk chocolate
+C865	Vanille	Vanilla-flavored rolled in hazelnuts
+K014	Kroon	Milk chocolate with mint cream 
+K086	Koning	Hazelnut paste in dark chocolate
+M315	Pyramide	White with dark chocolate trimming
+S163	Orbais	Chocolate cream in dark chocolate

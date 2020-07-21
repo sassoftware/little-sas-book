@@ -1,0 +1,7 @@
+Item	Country of Origin	Online$	Store$
+3 Person Dome Tent	China	308	359
+8 Person Cabin Tent	USA	399	399
+Camp Bag	USA	119	129
+Down Mummy Bag	China	449	469
+Deluxe Sleep Pad	Canada	169	179
+Ultra-light Pad	USA	69	74
